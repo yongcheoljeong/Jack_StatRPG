@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Jack_StatRPG/static/css/main.f69e2594.chunk.css",
-    "main.js": "/Jack_StatRPG/static/js/main.d0c0be35.chunk.js",
-    "main.js.map": "/Jack_StatRPG/static/js/main.d0c0be35.chunk.js.map",
+    "main.js": "/Jack_StatRPG/static/js/main.be362b4f.chunk.js",
+    "main.js.map": "/Jack_StatRPG/static/js/main.be362b4f.chunk.js.map",
     "runtime-main.js": "/Jack_StatRPG/static/js/runtime-main.06d48bed.js",
     "runtime-main.js.map": "/Jack_StatRPG/static/js/runtime-main.06d48bed.js.map",
-    "static/js/2.36d2190a.chunk.js": "/Jack_StatRPG/static/js/2.36d2190a.chunk.js",
-    "static/js/2.36d2190a.chunk.js.map": "/Jack_StatRPG/static/js/2.36d2190a.chunk.js.map",
+    "static/js/2.891c1f31.chunk.js": "/Jack_StatRPG/static/js/2.891c1f31.chunk.js",
+    "static/js/2.891c1f31.chunk.js.map": "/Jack_StatRPG/static/js/2.891c1f31.chunk.js.map",
     "static/js/3.8dfcd814.chunk.js": "/Jack_StatRPG/static/js/3.8dfcd814.chunk.js",
     "static/js/3.8dfcd814.chunk.js.map": "/Jack_StatRPG/static/js/3.8dfcd814.chunk.js.map",
     "index.html": "/Jack_StatRPG/index.html",
     "static/css/main.f69e2594.chunk.css.map": "/Jack_StatRPG/static/css/main.f69e2594.chunk.css.map",
-    "static/js/2.36d2190a.chunk.js.LICENSE.txt": "/Jack_StatRPG/static/js/2.36d2190a.chunk.js.LICENSE.txt",
+    "static/js/2.891c1f31.chunk.js.LICENSE.txt": "/Jack_StatRPG/static/js/2.891c1f31.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Jack_StatRPG/static/media/background.0ba3ea58.png"
   },
   "entrypoints": [
     "static/js/runtime-main.06d48bed.js",
-    "static/js/2.36d2190a.chunk.js",
+    "static/js/2.891c1f31.chunk.js",
     "static/css/main.f69e2594.chunk.css",
-    "static/js/main.d0c0be35.chunk.js"
+    "static/js/main.be362b4f.chunk.js"
   ]
 }
